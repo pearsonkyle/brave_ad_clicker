@@ -12,3 +12,6 @@ Algorithm:
 4. move mouse back to original position
 
 ![](last_screen.png)
+
+
+Tested on mac. Screen shot placement needs to be optimized for windows users
